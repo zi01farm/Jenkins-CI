@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"C:/Users/Zaid Iqbal/Vagrant/Multivagrant_Solution/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Zaid Iqbal/Vagrant/Multivagrant_Solution","disabled":false,"__vagrantfile":true}}}
